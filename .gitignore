@@ -1,0 +1,16 @@
+# Global ignores
+node_modules/
+dist/
+build/
+coverage/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Backend
+backend/logs/
